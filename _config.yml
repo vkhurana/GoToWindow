@@ -1,0 +1,8 @@
+title: Go To Window
+description: A keyboard-maniac alt-tab alternative
+google_analytics: UA-1072453-4
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
